@@ -1,0 +1,7 @@
+It's a super-market billing system which uses cpp language. There are 2 modes. Admin and Seller mode. 
+Admin mode -
+Admin's password is '1000' in case you are looking for it. You can store your market's products in a database. You can also edit and delete product's verious information like (Price, Quanity , Discount_rate). 
+There is an excel file named 'shoppinginformation'. When you try to edit the database, program immediately creates a temporary excel file named 'shoppinginformationnew' and replaces it with the old one. 
+Seller mode - 
+When buyer's are buying products from your store, give input the products' code and remaining products will be automatically updated in the excel file. 
+Basically it's a system that will handle all the smart work of managing your products and calculating your products' quantity. 

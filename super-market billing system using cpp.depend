@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620803403 source:c:\users\faias\desktop\super-market billing system using cpp\main.cpp
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<cstdio>
+
